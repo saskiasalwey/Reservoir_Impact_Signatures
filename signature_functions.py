@@ -1,4 +1,4 @@
-## Functions for calculating hydrological signatures from Salwey et al. (2022) 
+## Functions for calculating hydrological signatures from Salwey et al. (2023) 
 # Application of the script can be seen in assosiated notebook 
 # The functions output signature values as well as variables used in the assosiated plots 
 
